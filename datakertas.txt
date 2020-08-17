@@ -1,0 +1,7 @@
+koran 0.00
+HVS 0.00
+buram 0.00
+buku 0.00
+majalah 0.00
+kardus 0.00
+kemasan_semen 0.00

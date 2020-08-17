@@ -1,0 +1,7 @@
+koran 2500
+HVS 2000
+buram 1500
+buku 1800
+majalah 1200
+kardus 2050
+kemasan_semen 2700

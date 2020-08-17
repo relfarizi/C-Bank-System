@@ -1,0 +1,4 @@
+botol 2200
+cup 3500
+karpet 800
+kemasan 100

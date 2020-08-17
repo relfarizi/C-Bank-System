@@ -1,0 +1,3 @@
+Botol			3500
+Pecahan			2200
+Kaleng			1100 
